@@ -6,7 +6,7 @@ Before setting up the project, make sure you have the following installed:
 
 * Python (3.10.12 recommended)
 * Django (5.1.2 recommended)
-* PostgreSQL (optional, if you wish to use a different database than SQLite)
+* SQLite
 * Git
 ## Project Setup
 ### 1. Clone the Repository
